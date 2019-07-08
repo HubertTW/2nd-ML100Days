@@ -13,6 +13,6 @@
 
 * Endemble
 
-##非監督式學習
+## 非監督式學習
 * PCA
 * K-clustering
