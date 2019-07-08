@@ -3,8 +3,12 @@
 
 主題包含
 ## 監督式學習
-*Data processing 
-*EDA
-*Model Selection
-*Fine-tuning
-*Endemble
+* Data processing 
+
+* EDA
+
+* Model Selection
+
+* Fine-tuning
+
+* Endemble
