@@ -7,6 +7,8 @@
 
 * EDA
 
+* Feature Engineering
+
 * Model Selection
 
 * Fine-tuning
