@@ -7,11 +7,13 @@
 
 * EDA
 
+* Feature Engineering
+
 * Model Selection
 
 * Fine-tuning
 
-* Endemble
+* Ensemble
 
 ## 非監督式學習
 * PCA
