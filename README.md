@@ -91,7 +91,7 @@ groupencoding:數值特徵+類別特徵 組合成新特徵
 
 (多重共線性是指多變量線性回歸中，變量之間由於存在高度相關關係而使回歸估計不準確)
 
-## Day 29 feature inportance
+## Day 29 feature importance
 樹狀狀模型的特徵重要性，可以分為
 分支次數、特徵覆蓋度、損失函數降低量
 permutation importance
